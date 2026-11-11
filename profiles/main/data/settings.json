@@ -38,7 +38,9 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "files.associations": {
-        "*.json": "jsonc"
+        "*.json": "jsonc",
+        "*.xslt": "xml",
+        "*.xsy": "xml"
     },
     "files.autoSave": "afterDelay",
     "files.trimTrailingWhitespace": true,
@@ -63,9 +65,9 @@
     "ruff.lineLength": 80,
     "security.workspace.trust.untrustedFiles": "open",
     "syncSettings.crons": {
-        "download": "0 * * * *",
+        "download": "0 9 * * *",
         "review": "0 * * * *",
-        "upload": "0 * * * *"
+        "upload": "0 17 * * *"
     },
     "terminal.integrated.fontFamily": "Fira Code, monospace, Everson Mono",
     "terminal.integrated.fontLigatures.enabled": true,
@@ -79,5 +81,4 @@
     "workbench.colorTheme": "GitHub Dark",
     "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
     "workbench.preferredLightColorTheme": "Catppuccin Latte",
-    "workbench.statusBar.visible": false
 }
