@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "files.associations": {
+        "*.json": "jsonc"
+    },
+    "window.newWindowProfile": "Default",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "Fira Code",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "csv.columnColorPalette": "cool",
+    "OcpCadViewer.view.orbit_control": true,
+    "OcpCadViewer.view.collapse": "root",
+    "OcpCadViewer.render.default_color": "CornflowerBlue",
+    "editor.rulers": [
+        80
+    ],
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+    "git.suggestSmartCommit": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "json.schemaDownload.trustedDomains": {
+        "https://developer.microsoft.com/json-schemas/": true,
+        "https://json-schema.org/": true,
+        "https://json.schemastore.org/": true,
+        "https://raw.githubusercontent.com/devcontainers/spec/": true,
+        "https://raw.githubusercontent.com/microsoft/vscode/": true,
+        "https://schemastore.azurewebsites.net/": true,
+        "https://spec.openapis.org/": true,
+        "https://www.schemastore.org/": true,
+        "https://raw.githubusercontent.com/LGUG2Z/": true
+    },
+    "catppuccin.italicComments": false,
+    "catppuccin.italicKeywords": false,
+    "catppuccin.accentColor": "blue",
+    "catppuccin.bracketMode": "monochromatic",
+    "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
+}
