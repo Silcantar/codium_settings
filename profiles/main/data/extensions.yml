@@ -1,53 +1,12 @@
-disabled:
-  - id: Antyos.openscad
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: bernhard-42.ocp-cad-viewer
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: circlecodesolution.ccs-flutter-color
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: GitHub.github-vscode-theme
-    uuid: 7328a705-91fc-49e6-8293-da6f112e482d
-  - id: James-Yu.latex-workshop
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: KyleMicallefBonnici.dts-lsp
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: mark-wiemer.vscode-autohotkey-plus-plus
-    uuid: cf96e3c7-3b07-4403-acc9-2b6299ba7877
-  - id: ms-vscode.powershell
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: nvarner.typst-lsp
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: rszyma.vscode-kanata
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: streetsidesoftware.code-spell-checker
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: tecosaur.latex-utilities
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: Thingraph.cad-viewer
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: Thingraph.dwg-viewer
-    uuid: 00000000-0000-0000-0000-000000000000
-  - id: tomoki1207.pdf
-    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
-  - id: astral-sh.ty
-    uuid: 06854e4c-1253-4639-aa05-1fe79daa704a
   - id: Catppuccin.catppuccin-vsc
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
   - id: catppuccin.catppuccin-vsc-pack
     uuid: 27c20910-92b3-4f79-936a-d2e8470376d8
-  - id: charliermarsh.ruff
-    uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: dnut.rewrap-revived
     uuid: 20669a1c-a561-4e7b-a409-be645903ce28
-  - id: ms-python.debugpy
-    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-python-envs
-    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: redhat.vscode-xml
     uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml

@@ -1,0 +1,84 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.rulers": [
+            {
+                "color": "#80808040",
+                "column": 80
+            },
+            {
+                "color": "#80808080",
+                "column": 88
+            }
+        ]
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml",
+        "editor.rulers": [
+            100
+        ]
+    },
+    "catppuccin.accentColor": "blue",
+    "catppuccin.bracketMode": "monochromatic",
+    "catppuccin.italicComments": false,
+    "catppuccin.italicKeywords": false,
+    "csv.columnColorPalette": "cool",
+    "debug.toolBarLocation": "commandCenter",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontFamily": "Fira Code, monospace, Everson Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontVariations": true,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.xslt": "xml",
+        "*.xsy": "xml"
+    },
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.suggestSmartCommit": false,
+    "json.schemaDownload.trustedDomains": {
+        "https://developer.microsoft.com/json-schemas/": true,
+        "https://json-schema.org/": true,
+        "https://json.schemastore.org/": true,
+        "https://raw.githubusercontent.com/devcontainers/spec/": true,
+        "https://raw.githubusercontent.com/LGUG2Z/": true,
+        "https://raw.githubusercontent.com/microsoft/vscode/": true,
+        "https://schemastore.azurewebsites.net/": true,
+        "https://spec.openapis.org/": true,
+        "https://www.schemastore.org/": true
+    },
+    "OcpCadViewer.render.default_color": "CornflowerBlue",
+    "OcpCadViewer.view.collapse": "root",
+    "OcpCadViewer.view.orbit_control": true,
+    "redhat.telemetry.enabled": false,
+    "ruff.lineLength": 80,
+    "security.workspace.trust.untrustedFiles": "open",
+    "syncSettings.crons": {
+        "download": "0 9 * * *",
+        "review": "0 * * * *",
+        "upload": "0 17 * * *"
+    },
+    "terminal.integrated.fontFamily": "Fira Code, monospace, Everson Mono",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": 500,
+    "terminal.integrated.fontWeightBold": 800,
+    "ty.inlayHints.callArgumentNames": false,
+    "ty.inlayHints.variableTypes": false,
+    "window.autoDetectColorScheme": true,
+    "window.newWindowProfile": "Default",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
+    "workbench.preferredLightColorTheme": "Catppuccin Latte",
+}
